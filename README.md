@@ -1,8 +1,28 @@
 # Effective-Indoor-Space-Partitioning
 
 Back to Geometry: Effective Indoor Space Partitioning from Point Clouds by Integrated 2D-3D Geometric Features, Submitted to ISPRS Journal of Photogrammetry and Remote Sensing,2024
+
 <p align="center">
   <img src="flowchat.png" width="917" height="450">
 </p>
-This paper proposed an easily-used and robust method for indoor scenes partitioning from point clouds that integrates both 2D and 3D geometric features. During the vertical structure extraction process, this method fully leverages the distribution characteristics of point clouds in 2D space and the local and global features in 3D space, enabling robust extraction of vertical structural information in complex indoor environments. 
+This paper proposed an easily-used and robust method for indoor scenes partitioning from point clouds that integrates both 2D and 3D geometric features. During the vertical structure extraction process, this method fully leverages the distribution characteristics of point clouds in 2D space and the local and global features in 3D space, enabling robust extraction of vertical structural information in complex indoor environments. The source code and the test data will be publicly available after the paper is accepted. 
+## Data Preparation
+We evaluated our approach using 96 RGB-D scans of apartments or houses from Beike dataset, as well as 6 sets of S3DIS indoor point cloud datasets. The datasets encompass a variety of indoor scenes with different complexities, sizes, and structures. 
+
+##Experimental Results
+
+The S3DIS Datasets
+<p align="center">
+  <img src="flowchat.png" width="917" height="450">
+</p>
+
+The Beike Datasets
+
+<p align="center">
+  <img src="flowchat.png" width="917" height="450">
+</p>
+
+## License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
