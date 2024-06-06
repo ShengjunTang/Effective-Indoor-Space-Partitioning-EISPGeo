@@ -12,12 +12,12 @@ We evaluated our approach using 96 RGB-D scans of apartments or houses from Beik
 
 Samples of the S3DIS Datasets
 <p align="center">
-  <img src="comps3dis.png" width="714" height="900">
+  <img src="datas3dis.png" width="1256" height="450">
 </p>
 
-Samples of the beike Datasets
+Samples of the Beike Datasets
 <p align="center">
-  <img src="comps3dis.png" width="714" height="900">
+  <img src="beike.png" width="1322" height="450">
 </p>
 
 
