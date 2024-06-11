@@ -1,4 +1,4 @@
-# Effective-Indoor-Space-Partitioning(EISPGeo)
+# Effective-Indoor-Space-Partitioning (EISPGeo)
 
 Back to Geometry: Effective Indoor Space Partitioning from Point Clouds by Integrated 2D-3D Geometric Features (EISPGeo), Submitted to ISPRS Journal of Photogrammetry and Remote Sensing,2024
 
