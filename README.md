@@ -1,6 +1,6 @@
-# Effective-Indoor-Space-Partitioning
+# Effective-Indoor-Space-Partitioning(EISPGeo)
 
-Back to Geometry: Effective Indoor Space Partitioning from Point Clouds by Integrated 2D-3D Geometric Features, Submitted to ISPRS Journal of Photogrammetry and Remote Sensing,2024
+Back to Geometry: Effective Indoor Space Partitioning from Point Clouds by Integrated 2D-3D Geometric Features (EISPGeo), Submitted to ISPRS Journal of Photogrammetry and Remote Sensing,2024
 
 <p align="center">
   <img src="flowchat.png" width="917" height="450">
