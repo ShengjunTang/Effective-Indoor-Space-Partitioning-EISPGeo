@@ -1,6 +1,6 @@
 
 ## Source Code Sharing
-If you would like to using the source code for research purpose, please fill out an agreement to the code using Terms of Use, using your institutional email addresses, and send it to us at shenjuntang@szu.edu.cn.
+If you would like to using the source code for research purpose, please fill out an agreement to the Code Usage Agreement, using your institutional email addresses, and send it to us at shenjuntang@szu.edu.cn.
 
 
 # Effective-Indoor-Space-Partitioning (EISPGeo)
